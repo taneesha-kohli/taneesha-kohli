@@ -1,16 +1,38 @@
-## Hi there 👋
+# Shivani Kohli
 
-<!--
-**taneesha-kohli/taneesha-kohli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior MERN Stack Developer
 
-Here are some ideas to get you started:
+I build responsive and user-friendly full-stack web applications using the MERN stack. With a background in web design, I combine frontend development and UI experience to create clean and practical web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+                                                                       |
+| --------------------- | ------------------------------------------------------------------------------------- |
+| **Frontend**          | HTML5, CSS3, JavaScript, React.js, React Router, Tailwind CSS, Bootstrap, Context API |
+| **Backend**           | Node.js, Express.js, REST APIs                                                        |
+| **Database**          | MongoDB, Mongoose                                                                     |
+| **Tools & Libraries** | Git, GitHub, VS Code, Axios, JWT, ImageKit                                            |
+
+## Featured Project
+
+### BlogHub
+
+A full-stack blogging platform built with React.js, Node.js, Express.js, and MongoDB.
+
+The application includes user authentication, blog management, categories, comments, likes, saved blogs, and admin functionality, with a responsive interface for different screen sizes.
+
+**Built with:** React.js, Node.js, Express.js, MongoDB, Mongoose, Tailwind CSS, Context API, ImageKit
+
+[Live Demo](https://shivani-kohli-bloghub.vercel.app/)
+
+## Currently Exploring
+
+* Advanced React.js development
+* Full-stack application architecture
+* REST API design
+* Authentication and authorization
+* Database design with MongoDB and Mongoose
+* Deployment and production practices
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/shivani-kohli/)· [Email](shivanirana1245@gmail.com)
