@@ -2,7 +2,7 @@
 
 ### Junior MERN Stack Developer
 
-I build responsive and user-friendly full-stack web applications using the MERN stack. With a background in web design, I combine frontend development and UI experience to create clean and practical web experiences.
+I'm a web developer focused on building responsive and user-friendly full-stack web applications using the MERN stack. I have a background in web design and I'm currently focused on building real-world applications with React.js, Node.js, Express.js, and MongoDB.
 
 ## Technologies
 
