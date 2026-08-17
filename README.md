@@ -5,12 +5,22 @@
 I build responsive and user-friendly full-stack web applications using the MERN stack. With a background in web design, I combine frontend development and UI experience to create clean and practical web experiences.
 
 ## Technologies
-                                                                       |
-| --------------------- | ------------------------------------------------------------------------------------- |
-| **Frontend**          | HTML5, CSS3, JavaScript, React.js, React Router, Tailwind CSS, Bootstrap, Context API |
-| **Backend**           | Node.js, Express.js, REST APIs                                                        |
-| **Database**          | MongoDB, Mongoose                                                                     |
-| **Tools & Libraries** | Git, GitHub, VS Code, Axios, JWT, ImageKit                                            |
+
+**Frontend**
+
+HTML5, CSS3, JavaScript, React.js, React Router, Tailwind CSS, Bootstrap, Context API
+
+**Backend**
+
+Node.js, Express.js, REST APIs
+
+**Database**
+
+MongoDB, Mongoose
+
+**Tools & Libraries**
+
+Git, GitHub, VS Code, Axios, JWT, ImageKit
 
 ## Featured Project
 
@@ -22,7 +32,7 @@ The application includes user authentication, blog management, categories, comme
 
 **Built with:** React.js, Node.js, Express.js, MongoDB, Mongoose, Tailwind CSS, Context API, ImageKit
 
-[Live Demo](https://shivani-kohli-bloghub.vercel.app/)
+[Explore BlogHub](https://shivani-kohli-bloghub.vercel.app/)
 
 ## Currently Exploring
 
@@ -35,4 +45,4 @@ The application includes user authentication, blog management, categories, comme
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/shivani-kohli/)· [Email](shivanirana1245@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/shivani-kohli/) · [Email](shivanirana1245@gmail.com)
