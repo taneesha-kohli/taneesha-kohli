@@ -1,8 +1,8 @@
 # Shivani Kohli
 
-### Junior MERN Stack Developer
+### MERN Stack Developer
 
-I'm a Junior MERN Stack Developer focused on building responsive, user-friendly, and scalable full-stack web applications. I work with React.js, Node.js, Express.js, and MongoDB to build practical applications with clean interfaces, REST APIs, authentication, and database integration.
+I'm a MERN Stack Developer focused on building responsive, user-friendly, and scalable full-stack web applications. I work with React.js, Node.js, Express.js, and MongoDB to build practical applications with clean interfaces, REST APIs, authentication, and database integration.
 
 ## Technologies
 
